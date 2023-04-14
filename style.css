@@ -1,0 +1,58 @@
+body {
+    color: #ffffff;
+    background: linear-gradient(to bottom right, #a454e9, #5433ff);
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    margin: 0;
+  }
+  
+  h1 {
+    font-size: 5rem;
+    font-weight: normal;
+    margin: 10% auto 0;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    font-weight: normal;
+    margin: 5% auto 0;
+    text-align: center;
+  }
+  
+  p {
+    text-align: center;
+    margin-top: 3%;
+  }
+  
+  a {
+    color: #ffffff;
+    text-decoration: underline;
+  }
+  
+  img {
+    display: block;
+    margin: 2% auto;
+    max-width: 100%;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+  }
+  
+  .social-icons a {
+    margin-right: 10px;
+  }
+  
+  .social-icons a:last-child {
+    margin-right: 0;
+  }
+  
+  .social-icons img {
+    width: 30px;
+    height: 30px;
+  }
+  
